@@ -1,0 +1,30 @@
+Dashboard (Tera um super-admin para fazer o gerenciamento dos autores)
+    - Usuário 
+        - login
+        - cadastro
+
+    - categorias
+        - listar
+        - cadastro
+        - alterar
+        - deletar
+
+    - post
+        - listar por categorias
+        - cadastro 
+        - alterar
+        - deletar
+
+    
+
+
+* Gerar QR Code
+* Gerar links
+* Gerar embed de videos
+* Gerar relatorios
+* Ferramentas 
+    - calculos 
+    - gerar documentos
+
+
+    
