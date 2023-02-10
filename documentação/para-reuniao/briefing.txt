@@ -1,0 +1,98 @@
+PROJETO
+
+1 - Nome da empresa?
+
+2 - Fale sobre o projeto(Conceito)?
+
+3 - É algo inovador, ou já existe algo semelhante no mercado?
+
+4 - Quais são os pontos fortes e fracos do negócio? Por que?
+
+5 - Qual o grande desafio de sua imagem para os seus consumidores?
+
+6 - Assinale três adjetivos que descrevam como o site deve ser percebido pelos usuários 
+(   ) Conservador
+(   ) Progressivo
+(   ) Amigável
+(   ) Formal
+(   ) Casual
+(   ) Sério
+(   ) Expert
+(   ) Engraçado
+(   ) Orientado a serviços
+(   ) Profissional
+
+Outros:
+
+
+
+DESIGNE
+
+7 - Existem padrões existentes, como logotipos e cores, que devem estar presentes? (se não existe, a criação vai ser feita por vocês ou por nós)?
+
+8 - Existe um elemento visual, que possa ser usado, de material de marketing já existente?
+
+9 - Tem em mente alguma aparência para o web site?
+
+10 - Qual são as seções e funcionalidades que precisam existir?
+
+11 - Liste alguns sites que você gosta de uma maneira geral e outros que você gosta, ligados ao site que quer desenvolver. O que você acha interessante neles? Se possível, envie links de referência.
+
+12 - Liste alguns sites descreva rapidamente o que gosta e não gosta neles.
+
+13 - O que não pode haver no site, em função dos concorrentes?
+
+14 - Qual é o "aceite" do site (o que precisa existir para "aceitar" que ele está pronto)?
+
+
+
+PUBLICO
+
+15 - Quais são as mensagens mais importantes que o site deve passar aos visitantes?
+
+16 - É necessário obter dados dos visitantes? O que é preciso saber? Por que?
+
+17 - O que os visitantes devem fazer no site?
+
+18 - Que informação do site mudará(atualização)? Com que frequência e com que abrangência?
+
+19 - Quem é o público (principal e secundário), principais usuários, a quem o site se dirige?
+
+20 - Que principais mensagens você quer comunicar aos consumidores do seu site?
+
+
+
+AÇÃO DO USUÁRIO 
+
+21 - Que ação principal você deseja que o usuário do seu site faça? (exemplos: download de arquivos, navegação, percorrer um percurso, email, pedidos de compra, clicar um botão, etc.)
+
+22 - Que a ação você deseja que o usuário do seu site faça antes de deixar o site? (exemplos: download de arquivos, navegação, chegar a uma página, mandar um email).
+
+
+OUTROS
+
+23 - Se faltou algo que queira descrever:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
